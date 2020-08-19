@@ -19,3 +19,14 @@ hr {
     margin-top: 0.5%;
     font-size: 10em;
 }
+#face {
+    background: url('../images/roundSmile.png') no-repeat center center;
+    min-height: 40px; 
+
+}
+
+
+
+#footer {
+    text-align: left;
+}
