@@ -31,9 +31,11 @@ hr {
 .about {
     font-size: 2em; 
 }
-.img-thumbnail{
+.card-body{
+    background-color: #E8E9C9;
     border: 2px solid #85BB65;
 }
+
 
 
 #footer {
